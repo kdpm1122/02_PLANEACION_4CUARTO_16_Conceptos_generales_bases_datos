@@ -1,1 +1,3 @@
 # 02_PLANEACION_4CUARTO_16_Conceptos_generales_bases_datos
+
+https://kdpm1122.github.io/02_PLANEACION_4CUARTO_16_Conceptos_generales_bases_datos/
